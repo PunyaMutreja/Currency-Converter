@@ -19,9 +19,8 @@ The Currency Converter is a simple and efficient tool designed to convert amount
  - Tailwind CSS
  - Javascript
 
-
-
-
+## Want to try it out?
+ -https://currency-converter-ten-mu.vercel.app/
 ## Authors
 
 - [@PunyaMutreja](https://www.github.com/PunyaMutreja)
